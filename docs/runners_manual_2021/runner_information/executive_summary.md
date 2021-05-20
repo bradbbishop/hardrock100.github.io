@@ -1,29 +1,21 @@
 ---
 layout: default
-title: Executive Rules Summary
+title: Welcome
 parent: Runner Information
 grand_parent: Runners Manual 2021
 nav_order: 1
 ---
 
-## Executive Rules Summary
-
-We hope you read this manual in its entirety. But here is a summary of what we think are the important points! It is our
-goal to provide you a safe, well-organized and spectacular running experience. In order to do this we ask that you help
-us by abiding by these guidelines.
-
-1. No Whining.
-2. The Run Director has final authority on any question that may arise during the HRH.
-3. You must leave each aid station by the posted cutoff time. If you return, it will be assumed you have abandoned your
-   run attempt.
-4. No littering.
-5. No stashing of supplies along the course and no accepting aid except within 400 yards of a designated aid station.
-6. You have agreed to be pulled for medical and safety reasons if it is determined that such action is in your best
-   interest.
-7. Aid Station Captains have the authority to act on behalf of the HRH run management.
-8. Enjoy yourself!!!!!
-9. Pacers may meet their runner at **CREW ACCESS AID STATIONS ONLY** with two exceptions 1) for the CW direction, pacers
-   are allowed to start pacing at Maggie if they hike in to the aid station on their own. 2) for the CCW years, pacers
-   are allowed to start at KT if they hike in to the aid station on their own.
-10. Parking restrictions apply. See Section 4.2 of this manual.
-11. You must kiss the **HARDROCK** upon your successful completion of the run.
+We’re excited to have you join us at the Hardrock Hundred Endurance Run!
+ 
+Hardrock is an ultramarathon of 100.5 miles in length, plus 33,050 feet of climb and 33,050 feet of descent, at an average elevation of over 11,000 feet. The run is held on a loop course on 4WD roads, dirt trails, and cross country in southwest Colorado's San Juan Range, USA.
+ 
+The run starts and ends in Silverton, Colorado and connects the mountain towns of Sherman (Lake City), Ouray, Telluride and Ophir, crossing thirteen major passes over 12,000', with the highest point on the course being the 14,048' summit of Handies Peak. The run is annually held in mid-July, and switches direction each year. At the finish, runners kiss the Hardrock (a picture of a ram's head painted on a large block of stone mining debris).
+ 
+In 2021, the run will be held in a counter-clockwise direction.
+ 
+Our course offers a graduate level challenge for endurance runs. The course is designed to provide extreme challenges in altitude, steepness, and remoteness. 
+ 
+The cut-off time for finishing the run is 48 hours. Current fastest performances are held by Kilian Jornet (22:41), set in 2014 and Diana Finkel (27:18), set in 2009. The average time required to finish this run is 40:23:42. The course covers extremely rugged terrain including steep scree climbs and descents, snow packs, river crossings, and boulder fields. Runners who finish in over 40 hours will experience two sunsets.
+ 
+The run was founded in 1992 by Gordon Hardman, John Cappis, Charlie Thorn and Rick Trujillo as a tribute to the old time miners who followed their mules and instincts, prospecting the San Juans for gold, silver, and other metals. These miners endured cold, snow and avalanches, hunger, mining accidents, and a host of other hazards that we have difficulty imagining today. The miners enjoyed the immense beauty of the San Juans regardless of the risks, and we hope you find the same on your wild and tough adventure.
