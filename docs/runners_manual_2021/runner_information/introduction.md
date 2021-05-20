@@ -1,30 +1,24 @@
 ---
 layout: default
-title: Introduction
+title: Rules
 parent: Runner Information
 grand_parent: Runners Manual 2021
 nav_order: 3
 last_modified_date: 2021-03-04
 ---
 
-## 1. Introduction and Run Organization
+## Rules
 
-Welcome to the twenty-fifth running of the Hardrock Hundred! The Hardrock was thought up by Gordon Hardman as a tribute
-to the old time miners who followed their mules and instincts, prospecting the San Juans for gold, silver, and other
-metals. These miners endured cold, snow and avalanches, hunger, mining accidents, and a host of other hazards that we,
-today’s Hardrocker runners, have difficulty imagining. The miners enjoyed the immense beauty of the San Juans regardless
-of the risks. Now, in 2018, more than 140 years after the San Juan mineral quest began, we have the opportunity to enjoy
-the beauty and, compared to the old timers, experience a small amount of risk and effort. Enjoy it and respect it.
-
-This manual provides Hardrock Hundred runners and their crews with information to help in preparing for the 2018 run
-weekend and the run. We want to improve all aspects of the run, so please make notes (possibly mark up your manual and
-return it to Charlie Thorn) so that it can be improved for next year.
-
-At the center of all run organization is the Run Director (RD), Dale Garland. He has authority for all activities during
-the run and will work to ensure it goes smoothly. At all times during the run, he or his designee can be reached via the
-Amateur Radio Network or in person at the Start/Finish in the Silverton High School gym, located at 12th Street and
-Reese near downtown Silverton.
-
-Travel in the mountains is difficult - please try to solve problems locally, but contact the RD immediately when local
-solutions don't seem to be working. The RD has final authority on any question that may arise during this event. Prior
-to the run you can contact him at the addresses or numbers found in the Contact List.
+1. No Muling.
+2. You must leave each aid station by the posted Cut-Off time. If you return, it will be assumed you have abandoned your run attempt.
+3. No stashing of supplies along the course and no accepting aid except within 400 yards of a designated aid station.
+4. You have agreed to be pulled for medical and safety reasons if it is determined that such action is in your best interest.
+5. Aid Station Captains have the authority to act on behalf of the Hardrock run management.
+6. Pacers may meet their runners at crew access aid stations only.
+7. The course is closed - runners are required to follow the specified route.  If you deviate from the route, you must backtrack to the point at which you departed before continuing.
+8. All runners must complete a Service Requirement.
+9. All runners are required to carry a run-provided GPS Tracking device.
+10. Runners are responsible and accountable for the actions of their crews/pacers before, during and after the run.
+11. Runners are not allowed to take a ride in a vehicle where it advances their progress or compensates for runner error. Runners may, after checking into an aid station, rest and get warm in a stationary vehicle.
+ 
+Notable rule violations will be taken up by the Run Director and a tribunal of run staff.  Penalties may include disqualification and/or banning from future Hardrocks.  The Run Director has final discretion on all penalties and questions that arise.
